@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9b50e69-4695-4888-a633-ddf7946d9855" name="Default" comment="Adding structure">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bonus/ArrayInclusion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bonus/RecursiveSmallestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bonus/RecursiveSumOfValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenge3/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenge3/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenge3/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/starlight/numbers/N1N2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/starlight/numbers/N3N4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/starlight/numbers/N5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/starlight/numbers/N6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/starlight/numbers/N7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/starlight/numbers/N8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/starlight/numbers/N9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/starlight/strings/Strings1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/challenge3/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenge3/Exercise1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +92,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Exercise4">
+  <component name="RunManager" selected="Application.N9">
     <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="challenge3.Exercise2" />
       <module name="JavaBeginners" />
@@ -177,10 +160,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N9" />
         <item itemvalue="Application.Exercise4" />
         <item itemvalue="Application.Exercise3" />
         <item itemvalue="Application.Exercise2" />
-        <item itemvalue="Application.N9" />
         <item itemvalue="Application.N8" />
       </list>
     </recent_temporary>
@@ -232,7 +215,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master-CatalinaP" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
