@@ -2,7 +2,7 @@ package challenge3;
 
 import java.util.Scanner;
 
-public class Exercise1 {
+public class Exercise2 {
 
     public static void main(String[] args) {
 
@@ -15,13 +15,13 @@ public class Exercise1 {
         int y = scanner.nextInt();
 
         if (x < y) {
-            System.out.println(x + " is smaller than " + y);
+            System.out.println(x + " is smaller than " + y + " and the difference between x and y is: " + (y-x) );
         }
         else if (x > y) {
-            System.out.println(x + " is bigger than " + y);
+            System.out.println(x + " is bigger than " + y + " and the difference between x and y is: " + (x-y) );
         }
         else {
-            System.out.println(x + " and " + y + " are the same.");
+            System.out.println(x + " and " + y + " are the same, therefore the difference between x and y is 0.");
         }
     }
 }
